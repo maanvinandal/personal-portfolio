@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Vite Development Server",
+			"type": "shell",
+			"command": "npm run dev"
+		},
+		{
+			"label": "Start the project",
+			"type": "shell",
+			"command": "npm start"
+		},
+		{
+			"label": "Serve the project",
+			"type": "shell",
+			"command": "npm run serve"
+		},
+		{
+			"label": "Run Vite Development Server",
+			"type": "shell",
+			"command": "npm run dev"
+		}
+	]
+}
